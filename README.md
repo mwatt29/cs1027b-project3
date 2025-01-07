@@ -1,5 +1,6 @@
 # cs1027b-project3
-#What This Project Does
+# What This Project Does
+
 This project is a Maze Solver implemented in Java that uses recursive backtracking to find a path from a start position to the end position in a maze. It visually displays the solving process in real-time, allowing users to observe the pathfinding algorithm as it works.
 
 Features of the Project
